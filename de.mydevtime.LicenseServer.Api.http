@@ -1,0 +1,6 @@
+@de.mydevtime.LicenseServer.Api_HostAddress = http://localhost:5242
+
+GET {{de.mydevtime.LicenseServer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
